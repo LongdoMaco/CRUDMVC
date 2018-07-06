@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CRUDMVC", "CRUDMVC\CRUDMVC.vbproj", "{B422BCFD-D4E8-446D-962F-B839C005E2E7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CRUDMVC.Tests", "CRUDMVC.Tests\CRUDMVC.Tests.vbproj", "{5EB1A292-EEB0-4D82-9ED1-ADF9B1FC291B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B422BCFD-D4E8-446D-962F-B839C005E2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B422BCFD-D4E8-446D-962F-B839C005E2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B422BCFD-D4E8-446D-962F-B839C005E2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B422BCFD-D4E8-446D-962F-B839C005E2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB1A292-EEB0-4D82-9ED1-ADF9B1FC291B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB1A292-EEB0-4D82-9ED1-ADF9B1FC291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB1A292-EEB0-4D82-9ED1-ADF9B1FC291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB1A292-EEB0-4D82-9ED1-ADF9B1FC291B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
